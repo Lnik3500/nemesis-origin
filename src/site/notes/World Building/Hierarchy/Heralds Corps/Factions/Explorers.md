@@ -46,10 +46,17 @@ Wayfinders are somewhat similar to Horizon Scouts, but differ in being specialis
 They are the faction that studies creatures, tames beasts and studies the ecosystem to maintain order. Their job is also to catalog the creatures, providing as much information as possible to the other factions that needs to deal with said creatures. When possible, they try to analyze creatures in order to conserve them as much as possible. Killing them is the last option.
 
 ### Mission:
+- Study and document new creatures, ecosystems, and magical flora/fauna.
+- Track and monitor dangerous beasts, ensuring settlements remain safe.
+- Capture or domesticate rare creatures for study, trade, or combat use.
+- Protect the natural balance, preventing exploitation of those creatures.
 
 ### Methods:
+- Conduct long-term field studies, tracking creatures and documenting behavior.
+- Work with [[World Building/Hierarchy/Heralds Corps/Factions/Mercenaries\|Beast Wardens]] when dangerous creatures need to be culled or controlled.
+- Maintain monster-hunting records to identify patterns and weaknesses.
 
 ### Internal Culture:
-
-
----
+- Many reject cities, living as wanderers or tribal researchers.
+- A mix of scientists, hunters, and druids, each with different views on wildlife.
+- Highly independent and self-sufficient. Many carry knowledge of survival, herbal medicine, and creature physiology.
