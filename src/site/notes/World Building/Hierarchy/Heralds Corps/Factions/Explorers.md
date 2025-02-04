@@ -32,7 +32,7 @@ Wayfinders are somewhat similar to Horizon Scouts, but differ in being specialis
 - Ensure supply chains remain efficient and secure for Heralds Corp operations.
 
 ### Methods:
-- Utilize detailed maps, advanced tracking techniques, and rune-based navigation.
+- Utilize detailed maps, advanced tracking techniques, and expert navigation.
 - Train merchants, travelers, and adventurers in safe traversal techniques.
 - Work with researchers to predict and manipulate magical travel routes.
 
