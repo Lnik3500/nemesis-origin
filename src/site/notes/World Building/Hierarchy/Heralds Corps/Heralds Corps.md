@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-building/hierarchy/heralds-corps/heralds-corps/"}
+{"dg-publish":true,"permalink":"/world-building/hierarchy/heralds-corps/heralds-corps/","created":"2025-02-03T17:11:51.876-05:00","updated":"2025-02-03T23:43:53.731-05:00"}
 ---
 
 The Heralds Corps is the most central and important aspect of [[World Building/Settlements/Everstead/Everstead\|Everstead]] and its nearby settlements. It serves every aspects of what a society needs and makes sure that everything flows continually for stability. They provide ample work opportunities and make sure that work conditions are the best it can be to maintain order and retention from anyone joining them. 

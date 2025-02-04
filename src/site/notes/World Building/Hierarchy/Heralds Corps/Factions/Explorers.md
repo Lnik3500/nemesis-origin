@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-building/hierarchy/heralds-corps/factions/explorers/"}
+{"dg-publish":true,"permalink":"/world-building/hierarchy/heralds-corps/factions/explorers/","created":"2025-02-04T10:32:58.224-05:00","updated":"2025-02-04T14:02:53.169-05:00"}
 ---
 
 ## Horizon Scouts (Pathfinders, Spies, Survivalists)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-building/regions/asura/lunenhill-grove/lunenhill-grove/"}
+{"dg-publish":true,"permalink":"/world-building/regions/asura/lunenhill-grove/lunenhill-grove/","created":"2025-02-03T17:24:03.892-05:00","updated":"2025-02-03T17:24:21.122-05:00"}
 ---
 
 In the heart of the northwest region of [[World Building/Regions/Asura/Asura\|World Building/Regions/Asura/Asura]] lies Lunenhill Grove, a sprawling forest shrouded in mystery and magic. Here, towering trees reach towards the sky, their ancient branches entwined with secrets whispered by the wind.

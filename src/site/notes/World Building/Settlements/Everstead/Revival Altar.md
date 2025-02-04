@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-building/settlements/everstead/revival-altar/"}
+{"dg-publish":true,"permalink":"/world-building/settlements/everstead/revival-altar/","created":"2025-02-03T15:54:44.982-05:00","updated":"2025-02-03T16:07:37.300-05:00"}
 ---
 
 The revival altar is the prime benefit of working for [[World Building/Hierarchy/Heralds Corps/Heralds Corps\|Heralds Corps]]. Many years past, it was revealed that resurrection was as easy as a simple ritual, with the costs needed to perform it being simply covered. This made adventuring a lot less risky and benefitted many into not fearing for their lives as much. 
