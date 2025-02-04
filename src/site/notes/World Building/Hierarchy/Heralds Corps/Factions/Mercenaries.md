@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-building/hierarchy/heralds-corps/factions/mercenaries/","tags":["gardenEntry"],"created":"2025-02-04T10:33:02.154-05:00","updated":"2025-02-04T15:51:27.481-05:00"}
+{"dg-publish":true,"permalink":"/world-building/hierarchy/heralds-corps/factions/mercenaries/","created":"2025-02-04T10:33:02.154-05:00","updated":"2025-02-04T16:02:44.804-05:00"}
 ---
 
 ## Beast Wardens (Monster Hunters, Creature Control Specialists)
