@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-building/hierarchy/heralds-corps/factions/mercenaries/","created":"2025-02-04T10:33:02.154-05:00","updated":"2025-02-05T00:07:04.309-05:00"}
+{"dg-publish":true,"permalink":"/world-building/hierarchy/heralds-corps/factions/mercenaries/","created":"2025-02-04T10:33:02.154-05:00","updated":"2025-02-05T09:15:20.058-05:00"}
 ---
 
 ## Beast Wardens (Monster Hunters, Creature Control Specialists)
@@ -38,7 +38,7 @@ This faction is broad in many ways, but all converge on the idea of enforcing la
 
 ### Internal Culture:
 - A few work for personal reasons, seeking vengeance, justice, or even redemption.
-- No laws. No masters. No second chances. You hunt, or you become the hunted.
+- No rules. No masters. No second chances from your target. You hunt, or you become the hunted.
 - Unlike other factions, rank means nothing. The strongest, smartest, and most effective earn the best contracts.
 
 ---
