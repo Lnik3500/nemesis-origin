@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/character-creation/","created":"2025-02-09T15:07:46.752-05:00","updated":"2025-02-09T15:21:20.433-05:00"}
+{"dg-publish":true,"permalink":"/character-creation/","created":"2025-02-09T15:07:46.752-05:00","updated":"2025-02-10T10:02:26.616-05:00"}
 ---
 
 **Starting Level:** 3
 **Starting GP:** 75 gp
-**Runes:** Weapon Protency, Striking, Armor Potency and Resilient are free (if you work for [[World Building/Hierarchy/Heralds Corps/Heralds Corps\|Heralds Corps]])
+**Runes:** Weapon Potency, Striking, Armor Potency and Resilient are free, as well as starting weapons (if you work for [[World Building/Hierarchy/Heralds Corps/Heralds Corps\|Heralds Corps]])
 **Variant Rules:** Dual-Class, Free Archetype, Ancestry Paragon. High Quality Variant
 **No Relics**
 **Rarity:** Preferably Common Rarity. Will most likely include Uncommon and Rare stuff if asked.
