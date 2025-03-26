@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-building/hierarchy/heralds-corps/factions/merchants/","created":"2025-02-04T10:33:05.481-05:00","updated":"2025-03-25T16:21:45.141-04:00"}
+{"dg-publish":true,"permalink":"/world-building/hierarchy/heralds-corps/factions/merchants/","created":"2025-02-04T10:33:05.481-05:00","updated":"2025-03-26T14:44:11.394-04:00"}
 ---
 
 ## Aetherial Traders
@@ -42,11 +42,21 @@ Blacksmiths, Artisans, Engineers, etc. They're all part of this faction and are 
 - The members are loyal to their craft, not to [[World Building/Hierarchy/Heralds Corps/Heralds Corps\|Heralds Corps]]. 
 
 ---
-## Commodities
-
+## Essential Commodities
+This is the faction for common goods and anything the general population would need. They're responsible to regulate pricing and provide the resources the people need. 
 
 ### Mission:
+- Secure and distribute the resources by managing supply chains to ensure a smooth flow of goods.
+- Make sure that the market stays economically stable. 
+- Provide the goods needed for the general population, even those not with [[World Building/Hierarchy/Heralds Corps/Heralds Corps\|Heralds Corps]]. 
+- Handle support for other factions that need money to operate.
 
 ### Methods:
+- Establish trading hubs and storage depots or distribution centers
+- Establish trade routes and merchant stands in multiple villages to import goods for them.
+- Invest in the proper tools and materials to make sure the other factions are thriving.
 
 ### Internal Culture:
+- Members prioritize efficiency, even if against morals. Results are what matter.
+- They adapt easily, but at the cost of leaving entire territories if it's no longer sustainable.
+- To them, control equals survival. Whoever controls the flow of essential goods ultimately controls the territories.
