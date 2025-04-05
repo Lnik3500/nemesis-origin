@@ -47,7 +47,7 @@ This faction is the closest there is to an army. They're the ones policing towns
 
 ### Mission:
 - Protect caravans, trade routes and traveling [[World Building/Hierarchy/Heralds Corps/Factions/Merchants\|merchants]].
-- Enforce the law on the people as dictated by the [[World Building/Hierarchy/Grand Council\|Grand Council]].
+- Enforce the law on the people as dictated by the [[World Building/Hierarchy/Heralds Corps/Grand Council\|Grand Council]].
 - Guard important buildings, such as research labs, [[World Building/Settlements/Everstead/Revival Altar\|revival altar]], academy, etc.
 - Deploy in emergency situations, acting as first responders, invasions and disasters.
 

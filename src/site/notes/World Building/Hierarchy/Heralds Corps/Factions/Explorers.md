@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-building/hierarchy/heralds-corps/factions/explorers/","created":"2025-02-04T10:32:58.224-05:00","updated":"2025-02-04T14:02:53.169-05:00"}
+{"dg-publish":true,"permalink":"/world-building/hierarchy/heralds-corps/factions/explorers/","created":"2025-02-04T10:32:58.224-05:00","updated":"2025-03-27T16:01:39.448-04:00"}
 ---
 
 ## Horizon Scouts (Pathfinders, Spies, Survivalists)
@@ -33,8 +33,8 @@ Wayfinders are somewhat similar to Horizon Scouts, but differ in being specialis
 
 ### Methods:
 - Utilize detailed maps, advanced tracking techniques, and expert navigation.
-- Train merchants, travelers, and adventurers in safe traversal techniques.
-- Work with researchers to predict and manipulate magical travel routes.
+- Train [[World Building/Hierarchy/Heralds Corps/Factions/Merchants\|merchants]], travelers, and adventurers in safe traversal techniques.
+- Work with [[World Building/Hierarchy/Heralds Corps/Factions/Researchers\|researchers]] to predict routing and dungeon locations.
 
 ### Internal Culture:
 - Organized like a guild of expert guides and navigators.
@@ -57,6 +57,6 @@ They are the faction that studies creatures, tames beasts and studies the ecosys
 - Maintain monster-hunting records to identify patterns and weaknesses.
 
 ### Internal Culture:
-- Many reject cities, living as wanderers or tribal researchers.
+- Many reject cities, living as wanderers or tribal [[World Building/Hierarchy/Heralds Corps/Factions/Researchers\|researchers]].
 - A mix of scientists, hunters, and druids, each with different views on wildlife.
 - Highly independent and self-sufficient. Many carry knowledge of survival, herbal medicine, and creature physiology.
