@@ -2,9 +2,4 @@
 {"dg-publish":true,"permalink":"/nemesis-origin/world-building/settlements/nysadell/nysadell/"}
 ---
 
-- [[Nemesis Origin/World Building/Races/Elves\|Elven]] Academy biggest in the world
-- fortified using magic to take advantage of ley lines
-- racist to other races, but still open borders.
-- had to abandon the city due to the cold phenomenon
-- refuges in [[Nemesis Origin/World Building/Settlements/Everstead/Everstead\|Everstead]], with the big researchers integrated into [[Nemesis Origin/World Building/Hierarchy/Heralds Corps/Heralds Corps\|Heralds Corps]]
-- 
+Originally the biggest magical city in the region, this wonderful city housed the [[Nemesis Origin/World Building/Races/Elves\|elves]] and [[Nemesis Origin/World Building/Hierarchy/Heralds Corps/Factions/Researchers\|researchers]] alike, letting them take advantage of ley lines to enhance their R&D. Nysadell fell when [[Nemesis Origin/World Building/Settlements/Nysadell/The Hollow Frost\|The Hollow Frost]] happened, forcing everyone to flee and refuge to [[Nemesis Origin/World Building/Settlements/Everstead/Everstead\|Everstead]].

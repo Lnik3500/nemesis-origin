@@ -43,14 +43,17 @@ This faction is what academics and researchers are all about. They're the ones t
 
 ---
 ## Magic Innovators
-While Mage Scholars study what magic is and where it came from, Magic Innovators focus on what magic can do and how it can be changed. They're at the forefront of technological advancement. Their work empowers [[Nemesis Origin/World Building/Hierarchy/Heralds Corps/Heralds Corps\|Heralds Corps]] in staying ahead in magical technology, even more so after the collapse of [[Nemesis Origin/World Building/Settlements/Nysadell/Nysadell\|Nysadell]].
+While Mage Scholars study what magic is and where it came from, Magic Innovators focus on what magic can do and how it can be changed. They're at the forefront of technological advancement. Their work empowers [[Nemesis Origin/World Building/Hierarchy/Heralds Corps/Heralds Corps\|Heralds Corps]] in staying ahead in magical technology, even more so after the collapse of [[Nemesis Origin/World Building/Settlements/Nysadell/Nysadell\|Nysadell]]. Think of them as the R&D of [[Nemesis Origin/World Building/Hierarchy/Heralds Corps/Heralds Corps\|Heralds Corps]].
 
 ### Mission:
 - Modernize magic use by making enchanted devices, magic tools and such to ease the use for everybody.
-- Create new magical technologies such as wands, staves, and everyday objects
+- Create new magical technologies such as wands, staves, and everyday objects.
+- Reverse engineer ancient magic, often repurposed.
+- 
 
 ### Methods:
-- Conduct tests and simulations in controlled settings 
+- Conduct tests and simulations in controlled settings
+- 
 
 ### Internal Culture:
 - No
