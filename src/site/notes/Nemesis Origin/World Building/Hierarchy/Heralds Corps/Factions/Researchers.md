@@ -42,7 +42,7 @@ This faction is what academics and researchers are all about. They're the ones t
 - Caution is the first rule for them when it comes to studying unknown magics.
 
 ---
-## Magic Innovators
+## Arcane Innovators
 While Mage Scholars study what magic is and where it came from, Magic Innovators focus on what magic can do and how it can be changed. They're at the forefront of technological advancement. Their work empowers [[Nemesis Origin/World Building/Hierarchy/Heralds Corps/Heralds Corps\|Heralds Corps]] in staying ahead in magical technology, even more so after the collapse of [[Nemesis Origin/World Building/Settlements/Nysadell/Nysadell\|Nysadell]]. Think of them as the R&D of [[Nemesis Origin/World Building/Hierarchy/Heralds Corps/Heralds Corps\|Heralds Corps]].
 
 ### Mission:
